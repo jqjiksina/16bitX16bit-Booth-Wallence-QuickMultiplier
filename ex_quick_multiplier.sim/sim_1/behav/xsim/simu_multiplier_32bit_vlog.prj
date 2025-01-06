@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/csa_3to2.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/fa.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/gen_prod.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/ha.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/top.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/top_32bit_adder_parallel.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/u74181.v" \
+"../../../../ex_quick_multiplier.srcs/sources_1/new/u74182.v" \
+"../../../../ex_quick_multiplier.srcs/sim_1/new/simu_multiplier_32bit.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

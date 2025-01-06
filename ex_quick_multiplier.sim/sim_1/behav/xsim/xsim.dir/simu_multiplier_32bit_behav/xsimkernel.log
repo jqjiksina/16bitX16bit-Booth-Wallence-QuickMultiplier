@@ -1,0 +1,4 @@
+Running: xsim.dir/simu_multiplier_32bit_behav/xsimk.exe -simmode gui -wdb simu_multiplier_32bit_behav.wdb -simrunnum 0 -socket 63074
+Design successfully loaded
+Design Loading Memory Usage: 9484 KB (Peak: 9484 KB)
+Design Loading CPU Usage: 0 ms

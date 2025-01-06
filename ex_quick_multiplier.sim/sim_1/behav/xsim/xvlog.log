@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/Project/VivadoPrj/ex_quick_multiplier/ex_quick_multiplier.srcs/sources_1/new/top_32bit_adder_parallel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_32bit_adder_parallel
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/Project/VivadoPrj/ex_quick_multiplier/ex_quick_multiplier.srcs/sources_1/new/u74181.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module u74181
+INFO: [VRFC 10-2263] Analyzing Verilog file "Y:/Project/VivadoPrj/ex_quick_multiplier/ex_quick_multiplier.srcs/sources_1/new/u74182.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module u74182
